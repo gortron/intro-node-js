@@ -1,1 +1,17 @@
-{"Gordy Lanza":{"firstName":"Gordy","lastName":"Lanza","phoneNumber":"123.456.7890"},"Caroline McArthur":{"firstName":"Caroline","lastName":"McArthur","phoneNumber":"111.222.3333"}}
+{
+  "Gordy Lanza": {
+    "firstName": "Gordy",
+    "lastName": "Lanza",
+    "phoneNumber": "123.456.7890"
+  },
+  "Caroline McArthur": {
+    "firstName": "Caroline",
+    "lastName": "McArthur",
+    "phoneNumber": "111.222.3333"
+  },
+  "Bob Dylan": {
+    "firstName": "Bob",
+    "lastName": "Dylan",
+    "phoneNumber": "1111111111"
+  }
+}
